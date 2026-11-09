@@ -9,7 +9,6 @@ require("config.keybinds")
 require("config.pack")
 require("config.autocmds")
 require("config.quarto")
-require("config.window_focus")
 
 
 
