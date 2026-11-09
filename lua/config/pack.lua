@@ -60,7 +60,6 @@ local plugin_modules = {
   'mini',
   'oil',
   'nvim-tree',
-  'obsidian',
   'auto-session',
   'multi_cursor',
   'neovim_tips',
