@@ -62,7 +62,6 @@ local plugin_modules = {
   'nvim-tree',
   'auto-session',
   'multi_cursor',
-  'neovim_tips',
   'onliner',
   'quarto_marldown',
   'uv',
